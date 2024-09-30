@@ -82,4 +82,6 @@ O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front e
 - Em seguida execute o comando `npm run dev` para rodar o projeto.
 - No terminal ele mostrara a url que o projeto está sendo executada: `http://localhost:5173`
 
+- Email:mathsudre@gmail.com
+
 ##### Dúvidas: [vinicius.delfino@cadastra.com](mailto:vinicius.delfino@cadastra.com?subject=Dúvida%20Vaga%20DEV%20-%20Cadastra)
