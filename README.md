@@ -48,7 +48,7 @@ O projeto possui um setup pronto no qual há a necessidade de possuir o nodejs i
 
 Para instalar as dependências só é preciso executar o comando: `npm install`
 
-O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm start `
+O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm run server `
 
 Uma ver que o comando é dado ele irá levantar 2 servidores, sendo eles:
  - um para acessar o front-end que roda na porta 3000. No qual pode ser acessado pela url: http://localhost:3000
@@ -72,5 +72,14 @@ O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front e
 
 - Typescript com clean code
 - Adição de processo no gulp para otimizar imagens
+
+#### Iniciar Projeto - Desenvolvedor Cadastra - Matheus Sudré
+
+- Na raiz do projeto abra o terminal e use o comando `npm install` para instalar as dependencias.
+- Em seguida execute o comando `npm run server` para rodar o servidor json.
+
+- Abra outro terminal na pasta "desenvolvedor cadastra" e execute o comando `npm install` para instalar as dependencias.
+- Em seguida execute o comando `npm run dev` para rodar o projeto.
+- No terminal ele mostrara a url que o projeto está sendo executada: `http://localhost:5173`
 
 ##### Dúvidas: [vinicius.delfino@cadastra.com](mailto:vinicius.delfino@cadastra.com?subject=Dúvida%20Vaga%20DEV%20-%20Cadastra)

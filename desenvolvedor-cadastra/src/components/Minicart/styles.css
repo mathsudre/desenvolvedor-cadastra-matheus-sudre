@@ -1,0 +1,39 @@
+.wrapper-list-cart-products {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  max-height: 580px;
+  gap: 16px;
+  
+}
+.wrapper-list-cart-products li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 6px;
+}
+.wrapper-info-product{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.wrapper-list-cart-products button {
+  width: 24px;
+  height: 24px;
+  background-color: #ffffff;  
+  border: none;
+  cursor: pointer;
+}
+.wrapper-list-cart-products button img{
+  width: 24px;
+  height: 24px;  
+}
+.wrapper-info-product h2{
+  font: normal 400 16px/normal "Open Sans";
+}
+.wrapper-info-product p{
+  font: normal 400 14px/normal "Open Sans";
+}
+.wrapper-info-product span{
+  font: normal 400 12px/normal "Open Sans";
+}
